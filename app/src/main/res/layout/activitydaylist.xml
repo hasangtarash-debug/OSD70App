@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layoutwidth="matchparent"
+    android:layoutheight="matchparent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerDays"
+        android:layoutwidth="matchparent"
+        android:layoutheight="matchparent" />
+
+</LinearLayout>
